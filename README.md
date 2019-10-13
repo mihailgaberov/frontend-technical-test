@@ -55,7 +55,7 @@ type EventType = {
 type MarketType = {
     id: string;
     name: string;
-    markets: SelectionType[];
+    selections: SelectionType[];
 }
 
 /** Selection Entity */
